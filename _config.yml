@@ -2,7 +2,7 @@
 title:               Not By A Blogger
 tagline:             'A simple Blog'
 description:         'A blog for ones that can be interested by the life of Nunwan'
-url:                 https://Rob1B.github.io
+url:                 https://Rob1B.github.io/lanyon
 baseurl:             ''
 paginate:            5
 permalink:           pretty
