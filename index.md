@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 
-# A propos de moi
+# About
 
-Je m'appelle Robin Bertin aka Nunwan. Je suis étudiant à l'Ensimag en dernière année.
+I'm Robin Bertin. I'm a computer science student at the french engineering school : Ensimag.
 
-En ce moment, je suis échange à KTH, Stockholm.
+Currently, I'm doing an exchange at KTH, Stockholm.
