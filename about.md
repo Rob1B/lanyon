@@ -1,9 +1,7 @@
 ---
-layout: default
-title: Home
+layout: page
+title: About
 ---
-
-# About
 
 I'm Robin Bertin. I'm a computer science student at the french engineering school : Ensimag.
 
