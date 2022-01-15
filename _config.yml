@@ -2,7 +2,7 @@
 title:               Nunwan's room
 tagline:             'A little tour'
 description:         'A blog for ones that can be interested in the life of Nunwan'
-url:                 https://blog.nunwan.fr
+url:                 https://nunwan.fr
 baseurl:             ''
 paginate:            5
 permalink:           pretty
@@ -10,7 +10,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              Nunwan
-  url:               https://blog.nunwan.fr
+  url:               https://nunwan.fr
   email:             perso@nunwan.fr
 
 # Gems
