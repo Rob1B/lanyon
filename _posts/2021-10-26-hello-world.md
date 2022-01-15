@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: Welcome
 ---
 
-# My first Post
+Welcome to my blog. It is my first post in order to display a not empty front page.
 
-This is my first post
+Feel free to explore the about and projects pages. I will try to add content when I have things to say
