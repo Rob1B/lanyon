@@ -1,7 +1,7 @@
 # Setup
 title:               Nunwan's room
 tagline:             'A little tour'
-description:         'A blog for ones that can be interested by the life of Nunwan'
+description:         'A blog for ones that can be interested in the life of Nunwan'
 url:                 https://blog.nunwan.fr
 baseurl:             ''
 paginate:            5
