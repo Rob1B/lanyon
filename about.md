@@ -14,6 +14,8 @@ When I'm not on development stuff, I like playing video games (not original I kn
 
 
 Here's my linked : 
+
 [LinkedIn](https://www.linkedin.com/in/robin-bertin/)
+
 [contact@nunwan.fr](mailto:contact@nunwan.fr)
 
