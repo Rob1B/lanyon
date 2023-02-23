@@ -10,7 +10,7 @@ My subject is mainly graphical APIs related. I worked on DX12 memory allocation,
 I enjoy everything that is low level : OS, compilation, memory etc. But also things that are graphics such as 3D. Currently I'm trying to understand
 Linux graphics stack and GPU driver development and I also continue my little proto of a Rust game engine (just the beginning).
 
-When I'm not on development stuff, I like playing video games (not original I known) like Final Fantasy XIV or League Of Legends. I'm also a fantasy and SF enjoyer and a drummer.
+When I'm not on development stuff, I like playing video games (not original I know) like Final Fantasy XIV or League Of Legends. I'm also a fantasy and SF enjoyer and a drummer.
 
 
 Here's my linked : 
